@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.venv/
+venv/
+.env
+
+# 临时产物 / 转写机器稿（非源码）
+*.txt
+dom.html
+err.txt
+*.mp4
+*.tmp
+
+# 敏感（绝不进仓）
+*.keys/
+secret*
+
+# 系统
+.DS_Store
+Thumbs.db
